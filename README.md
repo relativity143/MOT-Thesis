@@ -8,16 +8,19 @@
 
 ## 文献列表
 
-| 文件 | 说明 |
-|------|------|
-| `phillips-lecture.pdf` | William D. Phillips 诺贝尔物理学奖演讲，激光冷却与原子囚禁经典文献 |
-| `1405.3148v1.pdf` | arXiv 预印本论文 |
-| `2008.00831v1.pdf` | arXiv 预印本论文 |
-| `2107.07367v1.pdf` | arXiv 预印本论文 |
-| `applsci-14-07062.pdf` | Applied Sciences 期刊论文 |
-| `s41467-023-38818-6.pdf` | Nature Communications 期刊论文 |
-| `s41598-020-73605-z.pdf` | Scientific Reports 期刊论文 |
-| `Infleqtion_miniMOTV2_User_Manual_Sept2025.pdf` | Infleqtion miniMOT V2 设备用户手册（2025年9月） |
+| 文件                                                                                                           | 说明                                                                   |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| `phillips-lecture.pdf`                                                                                       | William D. Phillips 诺贝尔物理学奖演讲，激光冷却与原子囚禁经典文献     |
+| `1405.3148v1.pdf`                                                                                            | arXiv 预印本论文                                                       |
+| `2008.00831v1.pdf`                                                                                           | arXiv 预印本论文                                                       |
+| `2107.07367v1.pdf`                                                                                           | arXiv 预印本论文                                                       |
+| `applsci-14-07062.pdf`                                                                                       | Applied Sciences 期刊论文                                              |
+| `s41467-023-38818-6.pdf`                                                                                     | Nature Communications 期刊论文                                         |
+| `s41598-020-73605-z.pdf`                                                                                     | Scientific Reports 期刊论文                                            |
+| `Infleqtion_miniMOTV2_User_Manual_Sept2025.pdf`                                                              | Infleqtion miniMOT V2 设备用户手册（2025年9月）                        |
+| `Xu 等 - 2023 - Magneto-optical traps for cold atomic gravimetry research status and development trends.pdf` | 综述类文章，系统概括了不同种类磁光阱的优劣和发展，可从chapter 3 开始读 |
+|                                                                                                                |                                                                        |
+|                                                                                                                |                                                                        |
 
 ## 相关主题
 

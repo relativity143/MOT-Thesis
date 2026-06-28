@@ -24,6 +24,7 @@
 | `gustafsson_LRAP325_2004.pdf`                                                                                | 解释 MOT选用铷原子的合理性                                                                                                                                                                          |
 | `photonics-12-00098`                                                                                         | 吴老师的论文，阐述了单光路同时控制冷却光和再泵浦光的合理性                                                                                                                                          |
 | `Compactmagneto-opticaltrapwithaquartzvacuumchamberforminiaturegravimeters`                                  | 吴老师的论文，研究紧凑型石英真空腔 MOT，并将石英腔与金属腔的装载效率进行比较。                                                                                                                      |
+| `面向物理教学的冷原子捕获实验系统的研究`                                                                     | 当前的实验论文                                                                                                                                                                                      |
 
 ## 相关主题
 
